@@ -1,0 +1,6 @@
+customer_id,full_name,phone_number,email_address,location,zip_code
+101,John Doe,9876543210,john@example.com,21 Jump Street,12345
+102,Jane Smith,8765432109,jane@example.com,42 Elm Street,67890
+103,Bob Johnson,,bob@example.com,55 Pine Lane,
+104,Emily Davis,9988776655,emily@example.com,7 Maple Ave,11223
+104,Emily Davis,9988776655,emily@example.com,7 Maple Ave,11223

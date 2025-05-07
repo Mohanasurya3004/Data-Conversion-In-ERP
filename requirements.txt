@@ -1,0 +1,6 @@
+flask
+pandas
+openpyxl
+xmltodict
+python-dotenv
+google-generativeai
